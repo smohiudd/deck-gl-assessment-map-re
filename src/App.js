@@ -57,7 +57,7 @@ class App extends React.Component {
       id: "assessment-RE",
       type: TileLayer,
       getTileData: ({x, y, z}) => {
-        const mapSource = `https://a.tiles.mapbox.com/v4/saadiqm.azk20mv4/${z}/${x}/${y}.vector.pbf?access_token=${MAPBOX_ACCESS_TOKEN}`;
+        const mapSource = `https://a.tiles.mapbox.com/v4/saadiqm.crsurd8i/${z}/${x}/${y}.vector.pbf?access_token=${MAPBOX_ACCESS_TOKEN}`;
         return fetch(mapSource)
           .then(response => response.arrayBuffer())
           .then(buffer => {
@@ -75,7 +75,7 @@ class App extends React.Component {
           });
       },
       onTileError:(e) => console.error(e),
-      maxZoom:10,
+      maxZoom:9,
       renderSubLayers: props => {
 
         function getWeight(point) {
