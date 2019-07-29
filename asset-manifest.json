@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/deck-gl-assessment-map-re/static/css/main.34de6062.chunk.css",
-    "main.js": "/deck-gl-assessment-map-re/static/js/main.f717030f.chunk.js",
-    "main.js.map": "/deck-gl-assessment-map-re/static/js/main.f717030f.chunk.js.map",
+    "main.js": "/deck-gl-assessment-map-re/static/js/main.5563969c.chunk.js",
+    "main.js.map": "/deck-gl-assessment-map-re/static/js/main.5563969c.chunk.js.map",
     "runtime~main.js": "/deck-gl-assessment-map-re/static/js/runtime~main.fb859ca2.js",
     "runtime~main.js.map": "/deck-gl-assessment-map-re/static/js/runtime~main.fb859ca2.js.map",
-    "static/js/2.538901af.chunk.js": "/deck-gl-assessment-map-re/static/js/2.538901af.chunk.js",
-    "static/js/2.538901af.chunk.js.map": "/deck-gl-assessment-map-re/static/js/2.538901af.chunk.js.map",
+    "static/js/2.2ed127ce.chunk.js": "/deck-gl-assessment-map-re/static/js/2.2ed127ce.chunk.js",
+    "static/js/2.2ed127ce.chunk.js.map": "/deck-gl-assessment-map-re/static/js/2.2ed127ce.chunk.js.map",
     "index.html": "/deck-gl-assessment-map-re/index.html",
-    "precache-manifest.8fcf32881354e425f5af411e71926405.js": "/deck-gl-assessment-map-re/precache-manifest.8fcf32881354e425f5af411e71926405.js",
-    "service-worker.js": "/deck-gl-assessment-map-re/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/deck-gl-assessment-map-re/static/css/main.34de6062.chunk.css.map"
+    "precache-manifest.723aeafe58e7712adebbd1783285689a.js": "/deck-gl-assessment-map-re/precache-manifest.723aeafe58e7712adebbd1783285689a.js",
+    "service-worker.js": "/deck-gl-assessment-map-re/service-worker.js"
   }
 }

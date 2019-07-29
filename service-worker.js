@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/deck-gl-assessment-map-re/precache-manifest.8fcf32881354e425f5af411e71926405.js"
+  "/deck-gl-assessment-map-re/precache-manifest.723aeafe58e7712adebbd1783285689a.js"
 );
 
 self.addEventListener('message', (event) => {
